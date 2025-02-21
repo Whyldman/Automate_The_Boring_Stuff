@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172734e2-babf-46b5-9c29-35d36506021f" name="Changes" comment="Add first two programs">
+    <list default="true" id="172734e2-babf-46b5-9c29-35d36506021f" name="Changes" comment="Finished Chapter 3">
       <change afterPath="$PROJECT_DIR$/abcdCallStack.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/collatz.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/zeroDivide.py" afterDir="false" />
@@ -104,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740162366268</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finished Chapter 3">
+      <option name="closed" value="true" />
+      <created>1740166552109</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740166552109</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +129,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initiate python in new repo" />
     <MESSAGE value="Add first two programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add first two programs" />
+    <MESSAGE value="Finished Chapter 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Chapter 3" />
   </component>
 </project>
