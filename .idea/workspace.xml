@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172734e2-babf-46b5-9c29-35d36506021f" name="Changes" comment="Finished Chapter 3">
-      <change afterPath="$PROJECT_DIR$/abcdCallStack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collatz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zeroDivide.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zigzag.py" afterDir="false" />
+    <list default="true" id="172734e2-babf-46b5-9c29-35d36506021f" name="Changes" comment="Start chapter 4">
+      <change afterPath="$PROJECT_DIR$/Chapter 04 - Lists/magic8Ball2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 04 - Lists/allMyCats1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +47,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.abcdCallStack.executor": "Run",
+    "Python.allMyCats1.executor": "Run",
     "Python.collatz.executor": "Run",
     "Python.guessTheNumber.executor": "Run",
     "Python.rpsGame.executor": "Run",
@@ -64,6 +63,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GitHub\Automate_The_Boring_Stuff\Chapter 03 - Functions" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -112,7 +116,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740166552109</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Refactor to chapter folders">
+      <option name="closed" value="true" />
+      <created>1740166604246</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740166604246</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Start chapter 4">
+      <option name="closed" value="true" />
+      <created>1740166677960</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740166677960</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +150,8 @@
     <MESSAGE value="Initiate python in new repo" />
     <MESSAGE value="Add first two programs" />
     <MESSAGE value="Finished Chapter 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Chapter 3" />
+    <MESSAGE value="Refactor to chapter folders" />
+    <MESSAGE value="Start chapter 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start chapter 4" />
   </component>
 </project>
