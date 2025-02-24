@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172734e2-babf-46b5-9c29-35d36506021f" name="Changes" comment="Start chapter 4">
-      <change afterPath="$PROJECT_DIR$/Chapter 04 - Lists/magic8Ball2.py" afterDir="false" />
+    <list default="true" id="172734e2-babf-46b5-9c29-35d36506021f" name="Changes" comment="Add Conways Game of Life">
+      <change afterPath="$PROJECT_DIR$/Chapter 04 - Lists/coinFlipStreaks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 04 - Lists/allMyCats1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +47,12 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.abcdCallStack.executor": "Run",
     "Python.allMyCats1.executor": "Run",
+    "Python.coinFlipStreaks.executor": "Run",
     "Python.collatz.executor": "Run",
+    "Python.conway.executor": "Run",
     "Python.guessTheNumber.executor": "Run",
     "Python.rpsGame.executor": "Run",
+    "Python.scratch.executor": "Run",
     "Python.zeroDivide.executor": "Run",
     "Python.zigzag.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -65,6 +67,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GitHub\Automate_The_Boring_Stuff\Chapter 04 - Lists" />
       <recent name="E:\GitHub\Automate_The_Boring_Stuff\Chapter 03 - Functions" />
     </key>
   </component>
@@ -132,7 +135,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740166677960</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add magic8Ball2.py">
+      <option name="closed" value="true" />
+      <created>1740418059941</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740418059941</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add Conways Game of Life">
+      <option name="closed" value="true" />
+      <created>1740419649220</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740419649220</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +171,8 @@
     <MESSAGE value="Finished Chapter 3" />
     <MESSAGE value="Refactor to chapter folders" />
     <MESSAGE value="Start chapter 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start chapter 4" />
+    <MESSAGE value="Add magic8Ball2.py" />
+    <MESSAGE value="Add Conways Game of Life" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Conways Game of Life" />
   </component>
 </project>
