@@ -5,13 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="172734e2-babf-46b5-9c29-35d36506021f" name="Changes" comment="Add Conways Game of Life">
-      <change afterPath="$PROJECT_DIR$/Chapter 04 - Lists/coinFlipStreaks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 05 - Dictionaries and Structuring Data/birthdays.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Rebase.Settings">
     <option name="NEW_BASE" value="origin/main" />
@@ -47,6 +54,8 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.abcdCallStack.executor": "Run",
     "Python.allMyCats1.executor": "Run",
+    "Python.birthdays.executor": "Run",
+    "Python.characterPictureGrid.executor": "Run",
     "Python.coinFlipStreaks.executor": "Run",
     "Python.collatz.executor": "Run",
     "Python.conway.executor": "Run",
@@ -151,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740419649220</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add Conways Game of Life">
+      <option name="closed" value="true" />
+      <created>1740425613895</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740425613895</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
