@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172734e2-babf-46b5-9c29-35d36506021f" name="Changes" comment="Add Conways Game of Life">
-      <change afterPath="$PROJECT_DIR$/Chapter 05 - Dictionaries and Structuring Data/birthdays.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="172734e2-babf-46b5-9c29-35d36506021f" name="Changes" comment="Start Chapter 5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,18 +52,21 @@
     "Python.abcdCallStack.executor": "Run",
     "Python.allMyCats1.executor": "Run",
     "Python.birthdays.executor": "Run",
+    "Python.characterCount.executor": "Run",
     "Python.characterPictureGrid.executor": "Run",
     "Python.coinFlipStreaks.executor": "Run",
     "Python.collatz.executor": "Run",
     "Python.conway.executor": "Run",
     "Python.guessTheNumber.executor": "Run",
+    "Python.prettyCharacterCount.executor": "Run",
     "Python.rpsGame.executor": "Run",
     "Python.scratch.executor": "Run",
     "Python.zeroDivide.executor": "Run",
     "Python.zigzag.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/GitHub/Automate_The_Boring_Stuff/Chapter 05 - Dictionaries and Structuring Data"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
@@ -75,6 +75,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GitHub\Automate_The_Boring_Stuff\Chapter 05 - Dictionaries and Structuring Data" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\GitHub\Automate_The_Boring_Stuff\Chapter 04 - Lists" />
       <recent name="E:\GitHub\Automate_The_Boring_Stuff\Chapter 03 - Functions" />
@@ -168,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740425613895</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Start Chapter 5">
+      <option name="closed" value="true" />
+      <created>1740443415609</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740443415609</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,6 +201,7 @@
     <MESSAGE value="Start chapter 4" />
     <MESSAGE value="Add magic8Ball2.py" />
     <MESSAGE value="Add Conways Game of Life" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Conways Game of Life" />
+    <MESSAGE value="Start Chapter 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start Chapter 5" />
   </component>
 </project>
