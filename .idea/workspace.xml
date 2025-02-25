@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172734e2-babf-46b5-9c29-35d36506021f" name="Changes" comment="Start Chapter 5" />
+    <list default="true" id="172734e2-babf-46b5-9c29-35d36506021f" name="Changes" comment="Add chess board validator">
+      <change afterPath="$PROJECT_DIR$/Chapter 05 - Dictionaries and Structuring Data/fantasyGameInventory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,13 +57,17 @@
     "Python.birthdays.executor": "Run",
     "Python.characterCount.executor": "Run",
     "Python.characterPictureGrid.executor": "Run",
+    "Python.chessDictionaryValidator.executor": "Run",
     "Python.coinFlipStreaks.executor": "Run",
     "Python.collatz.executor": "Run",
     "Python.conway.executor": "Run",
+    "Python.fantasyGameInvenstory.executor": "Run",
+    "Python.fantasyGameInventory.executor": "Run",
     "Python.guessTheNumber.executor": "Run",
     "Python.prettyCharacterCount.executor": "Run",
     "Python.rpsGame.executor": "Run",
     "Python.scratch.executor": "Run",
+    "Python.ticTacToe.executor": "Run",
     "Python.zeroDivide.executor": "Run",
     "Python.zigzag.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -179,7 +186,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740443415609</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add tic tac toe game">
+      <option name="closed" value="true" />
+      <created>1740444939818</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1740444939818</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add chess board validator">
+      <option name="closed" value="true" />
+      <created>1740510703484</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740510703484</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,6 +225,8 @@
     <MESSAGE value="Add magic8Ball2.py" />
     <MESSAGE value="Add Conways Game of Life" />
     <MESSAGE value="Start Chapter 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start Chapter 5" />
+    <MESSAGE value="Add tic tac toe game" />
+    <MESSAGE value="Add chess board validator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add chess board validator" />
   </component>
 </project>
