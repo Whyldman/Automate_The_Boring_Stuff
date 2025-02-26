@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172734e2-babf-46b5-9c29-35d36506021f" name="Changes" comment="Add fantasy game inventory program">
-      <change afterPath="$PROJECT_DIR$/Chapter 06 - Manipulating Strings/picnicTable.py" afterDir="false" />
+    <list default="true" id="172734e2-babf-46b5-9c29-35d36506021f" name="Changes" comment="Start chapter 6">
+      <change afterPath="$PROJECT_DIR$/Chapter_06_Manipulating_Strings/mclip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 03 - Functions/abcdCallStack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_03_Functions/abcdCallStack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 03 - Functions/collatz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_03_Functions/collatz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 03 - Functions/guessTheNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_03_Functions/guessTheNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 03 - Functions/rpsGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_03_Functions/rpsGame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 03 - Functions/zeroDivide.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_03_Functions/zeroDivide.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 03 - Functions/zigzag.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_03_Functions/zigzag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 06 - Manipulating Strings/picnicTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_06_Manipulating_Strings/picnicTable.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740525602362</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Start chapter 6">
+      <option name="closed" value="true" />
+      <created>1740586583392</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1740586583392</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,6 +252,7 @@
     <MESSAGE value="Add tic tac toe game" />
     <MESSAGE value="Add chess board validator" />
     <MESSAGE value="Add fantasy game inventory program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add fantasy game inventory program" />
+    <MESSAGE value="Start chapter 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start chapter 6" />
   </component>
 </project>
