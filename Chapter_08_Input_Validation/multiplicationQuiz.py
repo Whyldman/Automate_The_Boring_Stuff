@@ -24,7 +24,7 @@ def multiplicationQuiz(questions = 10, min = 1, max = 10):
         except pyip.RetryLimitException:
             print('Out of tries!')
         else: #This runs if no exceptions were raised
-            print('Correct!')
+
             correctAnswers += 1
 
         time.sleep(1) # Brief pause
