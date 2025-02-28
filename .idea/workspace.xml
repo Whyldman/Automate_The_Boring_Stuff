@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172734e2-babf-46b5-9c29-35d36506021f" name="Changes" comment="Date Validator">
-      <change afterPath="$PROJECT_DIR$/Chapter_07_Regular_Expressions/passwordChecker.py" afterDir="false" />
+    <list default="true" id="172734e2-babf-46b5-9c29-35d36506021f" name="Changes" comment="Password Validator">
+      <change afterPath="$PROJECT_DIR$/Chapter_07_Regular_Expressions/regexStrip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +73,7 @@
     "Python.picnicTable.executor": "Run",
     "Python.pigLat.executor": "Run",
     "Python.prettyCharacterCount.executor": "Run",
+    "Python.regexStrip.executor": "Run",
     "Python.rpsGame.executor": "Run",
     "Python.scratch.executor": "Run",
     "Python.tablePrinter.executor": "Run",
@@ -270,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740719141498</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Password Validator">
+      <option name="closed" value="true" />
+      <created>1740720347807</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1740720347807</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -301,6 +310,7 @@
     <MESSAGE value="Refactor folder names" />
     <MESSAGE value="Start chapter 7" />
     <MESSAGE value="Date Validator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Date Validator" />
+    <MESSAGE value="Password Validator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Password Validator" />
   </component>
 </project>
