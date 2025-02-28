@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172734e2-babf-46b5-9c29-35d36506021f" name="Changes" comment="Start chapter 7">
-      <change beforePath="$PROJECT_DIR$/.idea/Automate_The_Boring_Stuff.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Automate_The_Boring_Stuff.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="172734e2-babf-46b5-9c29-35d36506021f" name="Changes" comment="Date Validator">
+      <change afterPath="$PROJECT_DIR$/Chapter_07_Regular_Expressions/passwordChecker.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_07_Regular_Expressions/validDates.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_07_Regular_Expressions/validDates.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +69,7 @@
     "Python.fantasyGameInventory.executor": "Run",
     "Python.guessTheNumber.executor": "Run",
     "Python.myZombie.executor": "Run",
+    "Python.passwordChecker.executor": "Run",
     "Python.picnicTable.executor": "Run",
     "Python.pigLat.executor": "Run",
     "Python.prettyCharacterCount.executor": "Run",
@@ -255,7 +254,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740708687404</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Start chapter 7">
+      <option name="closed" value="true" />
+      <created>1740719122281</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1740719122281</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Date Validator">
+      <option name="closed" value="true" />
+      <created>1740719141498</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1740719141498</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,6 +300,7 @@
     <MESSAGE value="Add mclip program" />
     <MESSAGE value="Refactor folder names" />
     <MESSAGE value="Start chapter 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start chapter 7" />
+    <MESSAGE value="Date Validator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Date Validator" />
   </component>
 </project>
