@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172734e2-babf-46b5-9c29-35d36506021f" name="Changes" comment="Refactor folder names">
-      <change afterPath="$PROJECT_DIR$/Chapter_06_Manipulating_Strings/bulletPointAdder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_06_Manipulating_Strings/myZombie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_06_Manipulating_Strings/pigLat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_06_Manipulating_Strings/tablePrinter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="172734e2-babf-46b5-9c29-35d36506021f" name="Changes" comment="Chapter 6 exercises" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -246,7 +240,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740587748531</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Chapter 6 exercises">
+      <option name="closed" value="true" />
+      <created>1740697227789</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1740697227789</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -275,6 +277,7 @@
     <MESSAGE value="Start chapter 6" />
     <MESSAGE value="Add mclip program" />
     <MESSAGE value="Refactor folder names" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor folder names" />
+    <MESSAGE value="Chapter 6 exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 6 exercises" />
   </component>
 </project>
