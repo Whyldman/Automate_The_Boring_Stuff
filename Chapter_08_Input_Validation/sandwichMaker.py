@@ -6,7 +6,7 @@ bread = pyip.inputMenu(choices = ['white', 'wheat', 'sourdough'],
 protein = pyip.inputMenu(choices=['chicken', 'turkey', 'ham', 'tofu'],
                          prompt='What type of protein?\n')
 
-wantsCheese = pyip.inputYesNo("Do you want cheese?")
+wantsCheese = pyip.inputYesNo("Do you want cheese?\n")
 
 if wantsCheese == "yes":
     cheese = pyip.inputMenu(choices=['cheddar', 'Swiss', 'mozzarella'],
@@ -18,6 +18,26 @@ wantsMayo = pyip.inputYesNo("Do you want mayo?\n")
 wantsMustard = pyip.inputYesNo("Do you want mustard?\n")
 wantsLettuce = pyip.inputYesNo("Do you want lettuce?\n")
 wantsTomato = pyip.inputYesNo("Do you want tomato?\n")
+
+if wantsMayo == "yes":
+    mayo = 1
+else:
+    mayo = 0
+
+if wantsMustard == "yes":
+    mustard = 1
+else:
+    mustard = 0
+
+if wantsLettuce == "yes":
+    lettuce = 1
+else:
+    lettuce = 0
+
+if wantsTomato == "yes":
+    tomato = 1
+else:
+    tomato = 0
 
 prices = {
     'breads': {
@@ -46,10 +66,10 @@ prices = {
 price = (prices['breads'][bread] +
          prices['proteins'][protein] +
          prices['cheeses'][cheese] +
-         prices['mayo'] +
-         prices['mustard'] +
-         prices['lettuce'] +
-         prices['tomato'])
+         (prices['mayo'] * mayo) +
+         (prices['mustard'] * mustard) +
+         (prices['lettuce'] * lettuce) +
+         (prices['tomato']) * tomato)
 
 
 print(f"That'll be ${price}, please.")
