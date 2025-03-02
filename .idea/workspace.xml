@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172734e2-babf-46b5-9c29-35d36506021f" name="Changes" comment="Password Validator" />
+    <list default="true" id="172734e2-babf-46b5-9c29-35d36506021f" name="Changes" comment="Fix sandwich maker prices">
+      <change afterPath="$PROJECT_DIR$/Chapter_09_Reading_and_Writing/hello.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,47 +56,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.abcdCallStack.executor&quot;: &quot;Run&quot;,
-    &quot;Python.allMyCats1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.birthdays.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bulletPointAdder.executor&quot;: &quot;Run&quot;,
-    &quot;Python.characterCount.executor&quot;: &quot;Run&quot;,
-    &quot;Python.characterPictureGrid.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chessDictionaryValidator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.coinFlipStreaks.executor&quot;: &quot;Run&quot;,
-    &quot;Python.collatz.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conway.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fantasyGameInvenstory.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fantasyGameInventory.executor&quot;: &quot;Run&quot;,
-    &quot;Python.guessTheNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Python.myZombie.executor&quot;: &quot;Run&quot;,
-    &quot;Python.passwordChecker.executor&quot;: &quot;Run&quot;,
-    &quot;Python.picnicTable.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pigLat.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prettyCharacterCount.executor&quot;: &quot;Run&quot;,
-    &quot;Python.regexStrip.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rpsGame.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tablePrinter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ticTacToe.executor&quot;: &quot;Run&quot;,
-    &quot;Python.validDates.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zeroDivide.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zigzag.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/GitHub/Automate_The_Boring_Stuff&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.abcdCallStack.executor": "Run",
+    "Python.allMyCats1.executor": "Run",
+    "Python.birthdays.executor": "Run",
+    "Python.bulletPointAdder.executor": "Run",
+    "Python.characterCount.executor": "Run",
+    "Python.characterPictureGrid.executor": "Run",
+    "Python.chessDictionaryValidator.executor": "Run",
+    "Python.coinFlipStreaks.executor": "Run",
+    "Python.collatz.executor": "Run",
+    "Python.conway.executor": "Run",
+    "Python.fantasyGameInvenstory.executor": "Run",
+    "Python.fantasyGameInventory.executor": "Run",
+    "Python.guessTheNumber.executor": "Run",
+    "Python.idiot.executor": "Run",
+    "Python.multiplicationQuiz.executor": "Run",
+    "Python.multiplicationQuizManual.executor": "Run",
+    "Python.myZombie.executor": "Run",
+    "Python.passwordChecker.executor": "Run",
+    "Python.picnicTable.executor": "Run",
+    "Python.pigLat.executor": "Run",
+    "Python.prettyCharacterCount.executor": "Run",
+    "Python.regexStrip.executor": "Run",
+    "Python.rpsGame.executor": "Run",
+    "Python.sandwichMaker.executor": "Run",
+    "Python.scratch.executor": "Run",
+    "Python.tablePrinter.executor": "Run",
+    "Python.ticTacToe.executor": "Run",
+    "Python.validDates.executor": "Run",
+    "Python.zeroDivide.executor": "Run",
+    "Python.zigzag.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/GitHub/Automate_The_Boring_Stuff"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;Python&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\GitHub\Automate_The_Boring_Stuff\Chapter_06_Manipulating_Strings" />
@@ -276,7 +287,31 @@
       <option name="project" value="LOCAL" />
       <updated>1740720347807</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Chapter 8 exercises">
+      <option name="closed" value="true" />
+      <created>1740773881123</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1740773881123</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Create My Own Multiplication Quiz">
+      <option name="closed" value="true" />
+      <created>1740777331855</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1740777331855</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Fix sandwich maker prices">
+      <option name="closed" value="true" />
+      <created>1740805184436</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1740805184436</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -308,6 +343,9 @@
     <MESSAGE value="Start chapter 7" />
     <MESSAGE value="Date Validator" />
     <MESSAGE value="Password Validator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Password Validator" />
+    <MESSAGE value="Chapter 8 exercises" />
+    <MESSAGE value="Create My Own Multiplication Quiz" />
+    <MESSAGE value="Fix sandwich maker prices" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix sandwich maker prices" />
   </component>
 </project>
